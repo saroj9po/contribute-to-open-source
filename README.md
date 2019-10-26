@@ -11,7 +11,7 @@ The goal of this project is to empower you to contribute code to open source pro
 * are empowered by your new ability to create
 * are curious what "open source" means and how you can do it too
 
-## Your mission
+## Your mission for this situation is-
 
 Jump right in and fix issue [#1](https://github.com/danthareja/contribute-to-open-source/issues/1).
 
